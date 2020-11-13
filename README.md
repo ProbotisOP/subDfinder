@@ -1,5 +1,5 @@
 # subDfinder
-Dubdoimain FINDER tool
+Subdomain FINDER tool
 
 install requirements 
 
